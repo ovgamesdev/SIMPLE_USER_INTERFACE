@@ -1,3 +1,1 @@
-# PluginOvGames
-
-Developed with Unreal Engine 4
+https://ovgamesdev.github.io/en/unrealenginemarketplace/simpleuserinterface/
